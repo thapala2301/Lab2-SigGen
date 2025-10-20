@@ -5,7 +5,7 @@
 ---
 ## Lab 2 - Signal Generation and Capture
 
-**_Peter Cheung, V1.0 - 26 Oct 2022_**
+**_Peter Cheung, V1.1 - 20 Oct 2025_**
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## Objectives
 By the end of this experiment, you should be able to:
-* write a basic System Verilog specification for a memory component
+* write a basic SystemVerilog specification for a memory component
 * pre-load the memory with known contents stored in an initialization file
 * design a signal generator by combining a counter with a ROM component
 * change the frequency of the signal with rotary encoder on Vbuddy
